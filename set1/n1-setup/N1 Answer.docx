@@ -1,0 +1,39 @@
+# N1 Answers – Project Setup and Package Management
+
+## Purpose of package.json fields
+
+**1. name**
+
+The name field identifies the name of my Node.js project. It helps identify the project when managing packages.
+
+**2. version**
+
+The version field tells the current version of my project. It helps track changes and updates.
+
+**3. description**
+
+The description field provides a short explanation of what my project is about.
+
+**4. main**
+
+The main field specifies the main entry point of my project. In my activity, it is index.js.
+
+**5. scripts**
+
+The scripts field contains commands that I can run using npm. For example, I created a start script that runs my index.js file using npm start.
+
+**6. dependencies**
+
+Dependencies are packages my project needs to function. These packages are installed and used by my project.
+
+**7. devDependencies**
+
+DevDependencies are packages used mainly during development, such as tools that help me test or automatically restart my program while coding.
+
+## What is node_modules?
+
+The node_modules folder contains the packages and libraries installed through npm. These packages are needed by my project to use the functionality provided by other developers.
+
+## Why is node_modules not included when submitting or sharing a project?
+
+The node_modules folder is not included because it can be very large and contains packages that can be installed again using npm. Instead, package.json and package-lock.json record the dependencies so another user can install them by running npm install. This saves storage space and keeps the repository cleaner.
