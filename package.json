@@ -1,0 +1,21 @@
+{
+  "name": "elec3-node.js-agaton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhxnkxrttt/ELEC3-Node.js-Agaton.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jhxnkxrttt/ELEC3-Node.js-Agaton/issues"
+  },
+  "homepage": "https://github.com/jhxnkxrttt/ELEC3-Node.js-Agaton#readme"
+}
