@@ -15,7 +15,7 @@ This activity covers how to set up the node.js activity folder
 
 **Screenshot:**
 
-![N1 Screenshot](set1\n1-setup\screenshots\n1_start_output.png)
+![N1 Screenshot](set1/n1-setup/screenshots/n1_start_output.png)
 
 ---
 
