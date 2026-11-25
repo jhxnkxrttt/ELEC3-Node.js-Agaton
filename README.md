@@ -9,14 +9,27 @@
 ## Set 1
 
 ### N1 – Setup
-Description: [Add description after completing the activity.]
+This activity covers how to set up the node.js activity folder
 
-Folder: [N1](set1/n1-setup/)
+**Folder:** [N1](set1/n1-setup/index.js)
+
+**Screenshot:**
+
+![N1 Screenshot](set1\n1-setup\screenshots\n1_start_output.png)
+
+---
 
 ### N2 – Calculator
-Description: [Add description after completing the activity.]
+This activity covers the Additon, Substraction, Multiplication, Division Calculation and also have condition of CANNOT DIVIDE BY ZERO and ERRORVALUE
 
-Folder: [N2](set1/n2-calculator/)
+**Folder:** [N2](set1/n2-calculator/index.js)
+
+**Screenshot:**
+
+![N2 Screenshot](set1\n2-calculator\screenshots\n2-UnknownOperatin.png)
+
+---
+
 
 ### N3 – File Manager
 Description: [Add description after completing the activity.]
@@ -24,20 +37,3 @@ Description: [Add description after completing the activity.]
 Folder: [N3](set1/n3-file-manager/)
 
 ---
-
-## Set 2
-
-### N4 – Server
-Description: [Add description after completing the activity.]
-
-Folder: [N4](set2/n4-server/)
-
-### N5 – API
-Description: [Add description after completing the activity.]
-
-Folder: [N5](set2/n5-api/)
-
-### N6 – Middleware
-Description: [Add description after completing the activity.]
-
-Folder: [N6](set2/n6-middleware/)
