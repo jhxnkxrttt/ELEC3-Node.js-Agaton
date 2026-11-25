@@ -26,7 +26,7 @@ This activity covers the Additon, Substraction, Multiplication, Division Calcula
 
 **Screenshot:**
 
-![N2 Screenshot](set1\n2-calculator\screenshots\n2-UnknownOperatin.png)
+![N2 Screenshot](set1/n2-calculator/screenshots/n2-UnknownOperatin.png)
 
 ---
 
