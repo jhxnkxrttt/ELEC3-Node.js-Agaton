@@ -70,6 +70,29 @@ function deleteFile(filename) {
     console.log("File deleted successfully.");
 }
 
+// LIST all files
+function listFiles() {
+    const filenames = fs.readdirSync(filesFolder);
+
+    if (filenames.length === 0) {
+        console.log("The files folder is empty.");
+        return;
+    }
+
+    console.log("\n--- FILE LIST ---");
+
+    filenames.forEach((filename) => {
+        const filePath = path.join(filesFolder, filename);
+        const fileExtension = path.extname(filename);
+        const fileContent = fs.readFileSync(filePath, "utf8");
+
+        console.log("Full path:", filePath);
+        console.log("File name:", filename);
+        console.log("Extension:", fileExtension || "(no extension)");
+        console.log("Contents:", fileContent);
+        console.log("-------------------");
+    });
+}
 
 // Read commands and arguments from the terminal
 const command = process.argv[2];
