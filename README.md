@@ -13,6 +13,8 @@ This activity covers how to set up the node.js activity folder
 
 **Folder:** [N1](set1/n1-setup/index.js)
 
+---
+
 **Screenshot:**
 
 ![N1 Screenshot](set1\n1-setup\screenshots\n1_start_output.png)
@@ -24,6 +26,8 @@ This activity covers the Additon, Substraction, Multiplication, Division Calcula
 
 **Folder:** [N2](set1/n2-calculator/index.js)
 
+---
+
 **Screenshot:**
 
 ![N2 Screenshot](set1\n2-calculator\screenshots\n2-UnknownOperatin.png)
@@ -32,8 +36,14 @@ This activity covers the Additon, Substraction, Multiplication, Division Calcula
 
 
 ### N3 – File Manager
-Description: [Add description after completing the activity.]
+This program file-manager can create, update, delete, and list all the file you created.
 
-Folder: [N3](set1/n3-file-manager/)
+Folder: [N3](C:\Users\jhonk\ELEC3-Node.js-Agaton\set1\n3-file-manager)
+
+---
+
+**Screenshot:**
+
+![N2 Screenshot](set1\n3-file-manager\screenshots\n3-create.png)
 
 ---
